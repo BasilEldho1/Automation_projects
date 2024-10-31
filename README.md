@@ -1,2 +1,2 @@
-# Automation_projects
+# Manual_projects
 Books To Home
